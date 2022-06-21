@@ -1,0 +1,6 @@
+{
+  "token": "[token here]",
+  "prefix": "[prefix-here]",
+  "clientId": "[client/application id here]",
+  "guildId": "[guild id here]",
+}
